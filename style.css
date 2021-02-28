@@ -1,0 +1,11 @@
+.jumbotron {
+    background-image: url("images/(get a pic)"); 
+    background-size: 100% 100%; 
+    text-align: center; 
+    color: rgb(red, green, blue)
+}
+
+.body {
+    font: "Garamond"; 
+    background-color: hsla(120, 60%, 70%, 0.3);};
+}
