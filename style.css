@@ -6,6 +6,6 @@
 }
 
 .body {
-    font: "Garamond"; 
-    background-color: hsla(120, 60%, 70%, 0.3);};
+    font-family: Georgia, serif; 
+    background-color: peachpuff;
 }
